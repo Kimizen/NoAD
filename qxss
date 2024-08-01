@@ -1,0 +1,24 @@
+shadowsocks=46.29.163.29:61931, method=aes-256-gcm, password=a4a8a2002a4fd6c5, fast-open=false, udp-relay=false, tag=🕊台湾VIP 哎哟加速
+
+shadowsocks=91.149.236.131:61251, method=aes-256-gcm, password=ba4850ef511c65b3, fast-open=false, udp-relay=false, tag=🇭🇰香港VIP 哎哟加速
+
+shadowsocks=45.130.146.135:61254, method=aes-256-gcm, password=a7f1334b28f9ad77, fast-open=false, udp-relay=false, tag=🇸🇬新加坡VIP 哎哟加速
+
+shadowsocks=46.17.44.16:62135, method=aes-256-gcm, password=d8285a86cdb003de, fast-open=false, udp-relay=false, tag=🇺🇸美国VIP 哎哟加速
+
+shadowsocks=45.130.146.208:61429, method=aes-256-gcm, password=b6a2f7dde84e7a12, fast-open=false, udp-relay=false, tag=🇯🇵日本VIP 哎哟加速
+
+shadowsocks=195.133.53.81:61231, method=aes-256-gcm, password=478f9fdd437325da, fast-open=false, udp-relay=false, tag=🇹🇭泰国VIP 哎哟加速
+
+shadowsocks=46.17.44.95:63124, method=aes-256-gcm, password=6e67deffda597ac4, fast-open=false, udp-relay=false, tag=🇦🇺澳大利亚VIP 哎哟加速
+
+shadowsocks=46.17.43.87:65111, method=aes-256-gcm, password=76f22412bc0dbdf6, fast-open=false, udp-relay=false, tag=🇨🇦加拿大VIP 蒙特利尔
+
+shadowsocks=45.130.147.16:61231, method=aes-256-gcm, password=dfc78593808d4f68, fast-open=false, udp-relay=false, tag=🇰🇷韩国VIP 哎哟加速
+
+shadowsocks=193.53.126.91:64231, method=aes-256-gcm, password=df14ff552867fbf9, fast-open=false, udp-relay=false, tag=🇬🇧英国VIP 哎哟加速
+
+shadowsocks=46.29.163.29:61931, method=aes-256-gcm, password=a4a8a2002a4fd6c5, fast-open=false, udp-relay=false, tag=🇪🇸西班牙VIP 哎哟加速
+
+shadowsocks=193.53.126.91:64231, method=aes-256-gcm, password=df14ff552867fbf9, fast-open=false, udp-relay=false, tag=🇫🇷法国①VIP 哎哟加速
+shadowsocks=176.32.35.202:64132, method=aes-256-gcm, password=4194ce5b1f36f660, fast-open=false, udp-relay=false, tag=🇫🇷法国②VIP 哎哟加速
